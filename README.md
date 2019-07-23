@@ -27,7 +27,7 @@ Sou um desenvolvedor que começou sua carreira no acadêmico, lecionando Computa
 ### Desenvolvedor Front-end - Freelancer
 2016 até o momento   
 
-Trabalho no desenvolvimento e refatoração de aplicações com alto nível de complexidade. Atualmente estou trabalhando com: Javascript (ES6), HTML5, CSS3/SASS, PHP, Git, npm, yam, Gulp, Webpack, TDD/BDD.
+Trabalho no desenvolvimento e refatoração de aplicações com alto nível de complexidade. Atualmente estou trabalhando com: Javascript (ES6), HTML5, CSS3/SASS, Node.js, PHP, Git, npm, yam, Gulp, Webpack, TDD/BDD.
 
 ### Webdesigner - Agencia Copyright
 2014 até 2016   
