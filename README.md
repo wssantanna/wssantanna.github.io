@@ -16,6 +16,7 @@ Sou um desenvolvedor que começou sua carreira no acadêmico, lecionando Computa
 - Javascript   (Design patterns, TDD)
 - Javascript framework (Angular.js)
 - Automatizadores (Gulp, Webpack, npm)
+- Node.js
 - PHP
 - MySQL
 - Git
