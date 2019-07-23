@@ -19,7 +19,7 @@ Sou um desenvolvedor que começou sua carreira no acadêmico, lecionando Computa
 - PHP
 - MySQL
 - Git
-- Adobe CC (Animate, XD, Photoshop, Illustrator, Premiere e After effects)
+- Adobe CC (Animate, XD, Photoshop, Acrobat, Illustrator, Premiere e After effects)
 - Google Web Designer
 
 ## Experiências
