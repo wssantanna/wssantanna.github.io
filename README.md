@@ -19,7 +19,8 @@ Sou um desenvolvedor que começou sua carreira no acadêmico, lecionando Computa
 - PHP
 - MySQL
 - Git
-- Adobe CC (Photoshop, Illustrator, Premiere e After effects)
+- Adobe CC (Animate, Photoshop, Illustrator, Premiere e After effects)
+- Google Web Designer
 
 ## Experiências
 ### Desenvolvedor Front-end - Freelancer
